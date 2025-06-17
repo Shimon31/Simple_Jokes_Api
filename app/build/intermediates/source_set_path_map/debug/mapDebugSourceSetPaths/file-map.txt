@@ -1,0 +1,46 @@
+com.example.jokechatbot.app-tracing-1.2.0-0 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\022530d35da644c0684aa5fbcfc65a03\transformed\tracing-1.2.0\res
+com.example.jokechatbot.app-appcompat-1.7.1-1 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\198c69fda77c9bfbec7756ccf15ed513\transformed\appcompat-1.7.1\res
+com.example.jokechatbot.app-runtime-openxr-1.0.0-alpha04-2 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\1a3838939dfe991f0236cdf7bc180979\transformed\runtime-openxr-1.0.0-alpha04\res
+com.example.jokechatbot.app-recyclerview-1.1.0-3 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\1c59adc2b989d9308ca14ca90f374733\transformed\recyclerview-1.1.0\res
+com.example.jokechatbot.app-cardview-1.0.0-4 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\1c6b798ba3e7013adec331bc711aff2e\transformed\cardview-1.0.0\res
+com.example.jokechatbot.app-lifecycle-viewmodel-release-5 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\27d0e28c690bceba60ce3266dabfaa0e\transformed\lifecycle-viewmodel-release\res
+com.example.jokechatbot.app-core-ktx-1.16.0-6 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\494720420a3e373d811cc039f3dd196e\transformed\core-ktx-1.16.0\res
+com.example.jokechatbot.app-constraintlayout-2.2.1-7 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\4cf4586e5cf66156f98549b0aad2281e\transformed\constraintlayout-2.2.1\res
+com.example.jokechatbot.app-core-runtime-2.2.0-8 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\4d23002721e5eb22809257e476721b63\transformed\core-runtime-2.2.0\res
+com.example.jokechatbot.app-play-services-ads-api-24.4.0-9 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\57c727a1ded338527f339387e73644d5\transformed\play-services-ads-api-24.4.0\res
+com.example.jokechatbot.app-emoji2-views-helper-1.3.0-10 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\58e0fe3f662851c94be538cde164920f\transformed\emoji2-views-helper-1.3.0\res
+com.example.jokechatbot.app-play-services-basement-18.4.0-11 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\5cffd5854a5557fdd54d88f024ffa5cf\transformed\play-services-basement-18.4.0\res
+com.example.jokechatbot.app-lifecycle-process-2.8.7-12 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\64e87e3f38d3be6320b035e8813941c9\transformed\lifecycle-process-2.8.7\res
+com.example.jokechatbot.app-runtime-1.0.0-alpha04-13 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\662d9d8e27f388a5751ec00cac3ca2ba\transformed\runtime-1.0.0-alpha04\res
+com.example.jokechatbot.app-scenecore-1.0.0-alpha04-14 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\68e504b3a61e8d641702ddc7614d2cc6\transformed\scenecore-1.0.0-alpha04\res
+com.example.jokechatbot.app-profileinstaller-1.4.0-15 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\693d1a3d41080ee5e684815e8233a04e\transformed\profileinstaller-1.4.0\res
+com.example.jokechatbot.app-startup-runtime-1.1.1-16 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\6f0f3ce8f5cb860c53262c8431ed2df5\transformed\startup-runtime-1.1.1\res
+com.example.jokechatbot.app-lifecycle-viewmodel-savedstate-2.8.7-17 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\7652fd3ab825eec9d142c74237aae631\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.example.jokechatbot.app-lifecycle-service-2.8.7-18 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\765c60efb1c35f1204b0e98a8ab73642\transformed\lifecycle-service-2.8.7\res
+com.example.jokechatbot.app-lifecycle-runtime-release-19 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\8164c392f81e87872cc35603bbbf16f5\transformed\lifecycle-runtime-release\res
+com.example.jokechatbot.app-lifecycle-livedata-core-2.8.7-20 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\87a48b23b9047d1a0ac7ddfd119228e3\transformed\lifecycle-livedata-core-2.8.7\res
+com.example.jokechatbot.app-transition-1.5.0-21 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\8fda36c787ce6898a96bd055d3cab8da\transformed\transition-1.5.0\res
+com.example.jokechatbot.app-work-runtime-2.7.0-22 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\936d35f130de23bf932410ec53f0b5a1\transformed\work-runtime-2.7.0\res
+com.example.jokechatbot.app-activity-1.10.1-23 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\99f9aed8cb7c1f8bd986759cc1a300a8\transformed\activity-1.10.1\res
+com.example.jokechatbot.app-emoji2-1.3.0-24 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\9ab937865f4b648a14d38af974a42023\transformed\emoji2-1.3.0\res
+com.example.jokechatbot.app-browser-1.8.0-25 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\a8aeb812a6720649151b5d2f740dd7e9\transformed\browser-1.8.0\res
+com.example.jokechatbot.app-fragment-1.5.4-26 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\b0367dec1f2972aa5c73a525b035f4f8\transformed\fragment-1.5.4\res
+com.example.jokechatbot.app-viewpager2-1.0.0-27 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\b1764b36a399ac95ae3b76b019fdaa37\transformed\viewpager2-1.0.0\res
+com.example.jokechatbot.app-savedstate-1.2.1-28 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\bac5d5901b6132f33ad6623d5fe348e4\transformed\savedstate-1.2.1\res
+com.example.jokechatbot.app-appcompat-resources-1.7.1-29 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\c1c58d79e35418e0967bbc5a9b32f861\transformed\appcompat-resources-1.7.1\res
+com.example.jokechatbot.app-annotation-experimental-1.4.1-30 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\c474630e21314ed62d8c14dc0f435a61\transformed\annotation-experimental-1.4.1\res
+com.example.jokechatbot.app-arcore-1.0.0-alpha04-31 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\c576ff4db7a02b16a6fa2172522b1047\transformed\arcore-1.0.0-alpha04\res
+com.example.jokechatbot.app-material-1.12.0-32 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\d49b0eb65f0b71b66c6db97b73c97ab9\transformed\material-1.12.0\res
+com.example.jokechatbot.app-coordinatorlayout-1.1.0-33 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\dfe125923ad2dd62fc75e982345c5877\transformed\coordinatorlayout-1.1.0\res
+com.example.jokechatbot.app-lifecycle-livedata-core-ktx-2.8.7-34 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\e015fe1d719189a4052511041d152b6f\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.example.jokechatbot.app-core-viewtree-1.0.0-35 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\e30a6b60453d6c0bd76974bbd10d6a35\transformed\core-viewtree-1.0.0\res
+com.example.jokechatbot.app-lifecycle-livedata-2.8.7-36 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\eca61f7a6c59bd96b44105bbd9d323f7\transformed\lifecycle-livedata-2.8.7\res
+com.example.jokechatbot.app-drawerlayout-1.1.1-37 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\f2cb4aae86c120cc81eb123d52aaa1d5\transformed\drawerlayout-1.1.1\res
+com.example.jokechatbot.app-core-1.16.0-38 C:\Users\Shimon\.gradle\caches\8.10.2\transforms\fb395f98d16e563a5e8d8e36f8186104\transformed\core-1.16.0\res
+com.example.jokechatbot.app-pngs-39 D:\Android Project\Flutter Project\JokeChatbot\app\build\generated\res\pngs\debug
+com.example.jokechatbot.app-resValues-40 D:\Android Project\Flutter Project\JokeChatbot\app\build\generated\res\resValues\debug
+com.example.jokechatbot.app-packageDebugResources-41 D:\Android Project\Flutter Project\JokeChatbot\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.jokechatbot.app-packageDebugResources-42 D:\Android Project\Flutter Project\JokeChatbot\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.jokechatbot.app-debug-43 D:\Android Project\Flutter Project\JokeChatbot\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.jokechatbot.app-debug-44 D:\Android Project\Flutter Project\JokeChatbot\app\src\debug\res
+com.example.jokechatbot.app-main-45 D:\Android Project\Flutter Project\JokeChatbot\app\src\main\res

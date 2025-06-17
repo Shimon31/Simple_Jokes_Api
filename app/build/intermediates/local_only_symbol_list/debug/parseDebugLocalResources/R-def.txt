@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color colorPrimary
+color white
+drawable baseline_account_box_24
+drawable baseline_settings_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id idTVBot
+id idTVUser
+id messageEditText
+id messageLayout
+id recyclerView
+id sendButton
+layout activity_main
+layout item_bot_messages
+layout item_user_messages
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.JokeChatbot
+style Theme.JokeChatbot
+xml backup_rules
+xml data_extraction_rules

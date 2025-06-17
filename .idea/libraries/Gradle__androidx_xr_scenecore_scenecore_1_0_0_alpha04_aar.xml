@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.xr.scenecore:scenecore:1.0.0-alpha04@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/8.10.2/transforms/68e504b3a61e8d641702ddc7614d2cc6/transformed/scenecore-1.0.0-alpha04/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/8.10.2/transforms/68e504b3a61e8d641702ddc7614d2cc6/transformed/scenecore-1.0.0-alpha04/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/8.10.2/transforms/68e504b3a61e8d641702ddc7614d2cc6/transformed/scenecore-1.0.0-alpha04/jars/libs/androidx.xr.extensions.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/8.10.2/transforms/68e504b3a61e8d641702ddc7614d2cc6/transformed/scenecore-1.0.0-alpha04/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/8.10.2/transforms/68e504b3a61e8d641702ddc7614d2cc6/transformed/scenecore-1.0.0-alpha04/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.xr.scenecore/scenecore/1.0.0-alpha04/107759504310cbbc0805f01095f2bff62f7bb483/scenecore-1.0.0-alpha04-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
